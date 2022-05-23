@@ -1,0 +1,22 @@
+.strike
+{
+    text-decoration: line-through;
+    color: red;
+}
+.strike1
+{
+    color: green;
+}
+.dis
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.dis > div 
+{
+    display: flex;
+    align-items: center;
+    
+}
